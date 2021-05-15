@@ -1,0 +1,10 @@
+C:\Users\uzimane_\source\repos\eventgeneratingstats\eventgeneratingstats\bin\Debug\eventgeneratingstats.exe.config
+C:\Users\uzimane_\source\repos\eventgeneratingstats\eventgeneratingstats\bin\Debug\eventgeneratingstats.exe
+C:\Users\uzimane_\source\repos\eventgeneratingstats\eventgeneratingstats\bin\Debug\eventgeneratingstats.pdb
+C:\Users\uzimane_\source\repos\eventgeneratingstats\eventgeneratingstats\obj\Debug\eventgeneratingstats.csprojAssemblyReference.cache
+C:\Users\uzimane_\source\repos\eventgeneratingstats\eventgeneratingstats\obj\Debug\eventgeneratingstats.Form1.resources
+C:\Users\uzimane_\source\repos\eventgeneratingstats\eventgeneratingstats\obj\Debug\eventgeneratingstats.Properties.Resources.resources
+C:\Users\uzimane_\source\repos\eventgeneratingstats\eventgeneratingstats\obj\Debug\eventgeneratingstats.csproj.GenerateResource.cache
+C:\Users\uzimane_\source\repos\eventgeneratingstats\eventgeneratingstats\obj\Debug\eventgeneratingstats.csproj.CoreCompileInputs.cache
+C:\Users\uzimane_\source\repos\eventgeneratingstats\eventgeneratingstats\obj\Debug\eventgeneratingstats.exe
+C:\Users\uzimane_\source\repos\eventgeneratingstats\eventgeneratingstats\obj\Debug\eventgeneratingstats.pdb
